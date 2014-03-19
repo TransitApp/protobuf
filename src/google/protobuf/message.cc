@@ -31,7 +31,7 @@
 // Author: kenton@google.com (Kenton Varda)
 //  Based on original Protocol Buffers design by
 //  Sanjay Ghemawat, Jeff Dean, and others.
-
+#include <istream>
 #include <stack>
 #include <google/protobuf/stubs/hash.h>
 
